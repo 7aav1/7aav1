@@ -25,4 +25,4 @@ Thanks for visiting my github profile. Have a great day ahead!
   </p>
 </details>
 
-<p>My Websites: https://extaas.com | https://social.extaas.com</p>
+<p>My Websites: https://extaas.com</p>
